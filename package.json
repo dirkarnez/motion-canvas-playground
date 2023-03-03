@@ -1,0 +1,24 @@
+{
+  "name": "motion-canvas-playground",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@motion-canvas/2d": "3.0.0",
+    "@motion-canvas/core": "3.0.0"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "3.0.1",
+    "@motion-canvas/vite-plugin": "3.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "eslint": "^8.18.0",
+    "prettier": "^2.7.1",
+    "vite": "^3.0.0"
+  }
+}
